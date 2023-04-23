@@ -1,0 +1,6 @@
+
+
+java:S14886"bImmediately return this expression instead of assigning it to the temporary variable "credential".(îŒ÷×8æ‘®±Ü.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8æ‘®±Ü.
+¿
+java:S1130O"œRemove the declaration of thrown exception 'com.google.api.client.googleapis.json.GoogleJsonResponseException' which is a subclass of 'java.io.IOException'.(—–òûÿÿÿÿ8ÍİÒ±Ü.
